@@ -1,0 +1,33 @@
+body {
+    
+    background-color: antiquewhite;
+    color: gray;
+}
+.common {
+    background-color: rgb(172, 151, 151);
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    position: fixed;
+}
+
+.mainbody {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    position: fixed;
+}
